@@ -28,6 +28,3 @@ You can also access the live dashboard hosted on Power BI Service [here](https:/
 
 ## Support
 If you find this project helpful or have any feedback, please consider supporting it by liking and commenting on the Maven Analytics platform [here](https://mavenanalytics.io/project/14754).
-
-## License
-This project is licensed under the [MIT License](https://github.com/ViShNu-hub-bot/Maven-Rail-Dashboard/blob/main/LICENSE).
