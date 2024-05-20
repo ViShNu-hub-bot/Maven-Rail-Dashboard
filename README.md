@@ -1,6 +1,6 @@
 # Maven Rail Dashboard on Power BI
 
-![Maven Rail Dashboard](https://github.com/ViShNu-hub-bot/Maven-Rail-Dashboard/blob/main/dashboard_screenshot.png)
+![Dashboard Preview](File (6).png)
 
 ## Overview
 Welcome to the Maven Rail Dashboard project on Power BI! This dashboard provides comprehensive insights into rail ticket sales, revenue analysis, on-time performance, and popular routes. It is designed to facilitate data-driven decision-making in the rail transportation sector.
